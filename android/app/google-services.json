@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "1030504326049",
+    "firebase_url": "https://connect-326003-default-rtdb.firebaseio.com",
+    "project_id": "connect-326003",
+    "storage_bucket": "connect-326003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030504326049:android:1fe76a860cd6c31e0921e0",
+        "android_client_info": {
+          "package_name": "cloud.connect.libero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSY5NZKr4Tbe-zCe4kT3QuT9kQlwLU2YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030504326049-c79vgv1kte9hejhbs2eqo403i9nm4qab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cloud.connect.shangrila"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030504326049:android:60b050d783fb11ce0921e0",
+        "android_client_info": {
+          "package_name": "cloud.connect.shangrila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030504326049-cbbaqub660off1j61upepotic78conga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cloud.connect.shangrila",
+            "certificate_hash": "8dd0e899ef0cac97a77977468d0fc32b25380fac"
+          }
+        },
+        {
+          "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSY5NZKr4Tbe-zCe4kT3QuT9kQlwLU2YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030504326049-c79vgv1kte9hejhbs2eqo403i9nm4qab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cloud.connect.shangrila"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030504326049:android:4310fc9dc4e1c4bd0921e0",
+        "android_client_info": {
+          "package_name": "com.cloud.posandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSY5NZKr4Tbe-zCe4kT3QuT9kQlwLU2YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030504326049-c79vgv1kte9hejhbs2eqo403i9nm4qab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cloud.connect.shangrila"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030504326049:android:7db99c30ffe342100921e0",
+        "android_client_info": {
+          "package_name": "com.pos.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSY5NZKr4Tbe-zCe4kT3QuT9kQlwLU2YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030504326049-c79vgv1kte9hejhbs2eqo403i9nm4qab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cloud.connect.shangrila"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

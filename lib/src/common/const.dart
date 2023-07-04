@@ -2,7 +2,7 @@ const String APPCOMANYID = '2';
 const String APPDOMAIN = 'riraku-kan.jp';
 const String APPCOMPANYTITLE = 'りらくーかん';
 
-const int constIsTestApi = 1 ;
+const int constIsTestApi = 0;
 const bool IsFirebaseMode = true;
 
 // const String RESERVE_REQUEST = '1';

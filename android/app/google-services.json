@@ -32,10 +32,10 @@
               "client_type": 3
             },
             {
-              "client_id": "1030504326049-c79vgv1kte9hejhbs2eqo403i9nm4qab.apps.googleusercontent.com",
+              "client_id": "1030504326049-6qrh3aeqm1mbqolqnd6s31dv0oerjt30.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "cloud.connect.shangrila"
+                "bundle_id": "cloud.connect.libero"
               }
             }
           ]
@@ -59,6 +59,14 @@
           }
         },
         {
+          "client_id": "1030504326049-iq0m0co3ct4dr330136icrlkgvuiddsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cloud.connect.shangrila",
+            "certificate_hash": "e4e58ac29a08bf6e8e2712306d82b2ea77140fc5"
+          }
+        },
+        {
           "client_id": "1030504326049-j24gppuapc8n2r3u515vg4oqioh1l2ue.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -76,10 +84,10 @@
               "client_type": 3
             },
             {
-              "client_id": "1030504326049-c79vgv1kte9hejhbs2eqo403i9nm4qab.apps.googleusercontent.com",
+              "client_id": "1030504326049-6qrh3aeqm1mbqolqnd6s31dv0oerjt30.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "cloud.connect.shangrila"
+                "bundle_id": "cloud.connect.libero"
               }
             }
           ]
@@ -112,10 +120,10 @@
               "client_type": 3
             },
             {
-              "client_id": "1030504326049-c79vgv1kte9hejhbs2eqo403i9nm4qab.apps.googleusercontent.com",
+              "client_id": "1030504326049-6qrh3aeqm1mbqolqnd6s31dv0oerjt30.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "cloud.connect.shangrila"
+                "bundle_id": "cloud.connect.libero"
               }
             }
           ]
@@ -148,10 +156,10 @@
               "client_type": 3
             },
             {
-              "client_id": "1030504326049-c79vgv1kte9hejhbs2eqo403i9nm4qab.apps.googleusercontent.com",
+              "client_id": "1030504326049-6qrh3aeqm1mbqolqnd6s31dv0oerjt30.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "cloud.connect.shangrila"
+                "bundle_id": "cloud.connect.libero"
               }
             }
           ]

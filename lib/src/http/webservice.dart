@@ -19,12 +19,19 @@ class Webservice {
     bool conf = false;
     do {
       try {
+        if (constIsTestApi == 1) {
+          print('Request Url: $url \n \t\tReq: $param');
+        }
         final response = await http.post(Uri.parse(url),
             headers: {
               "Accept": "application/json; charset=UTF-8",
               "Content-Type": "application/x-www-form-urlencoded"
             },
             body: param);
+            
+        if (constIsTestApi == 1) {
+          print('\t\tRes: ${response.body}');
+        }
         if (response.statusCode == 200) {
           return jsonDecode(response.body);
         } else {

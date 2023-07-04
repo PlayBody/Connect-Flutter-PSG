@@ -30,6 +30,10 @@ class ClUser {
       'user_id': userId,
     }).then((v) => {results = v});
 
+    if(results['isLoad'] == false){
+      return UserModel.fromJson({});
+    }
+
     return UserModel.fromJson(results['user']);
   }
 
